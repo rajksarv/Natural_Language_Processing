@@ -1,0 +1,19 @@
+Nice job, CKY produces correct viterbi parses and score!
+ERROR: the woman eats a tuna with a fork
+  Correct parses: 2
+     Your parses: 1
+ERROR: the man eats the tuna and some sushi with the chopsticks
+  Correct parses: 3
+     Your parses: 1
+ERROR: the woman eats the tuna with a fork and some sushi with the chopsticks
+  Correct parses: 10
+     Your parses: 1
+Nice job, CKY produces correct viterbi parses and score!
+Nice job, CKY produces correct viterbi parses and score!
+Nice job, CKY produces correct viterbi parses and score!
+Nice job, CKY produces correct viterbi parses and score!
+Nice job, CKY produces correct viterbi parses and score!
+ERROR: the woman with a fork eats the man with some chopsticks
+  Correct parses: 2
+     Your parses: 1
+Nice job, CKY produces correct viterbi parses and score!

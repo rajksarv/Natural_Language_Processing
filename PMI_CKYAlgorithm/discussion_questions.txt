@@ -1,0 +1,8 @@
+1. Which cutoff is most useful for identifying the first and last names of popular actors and actresses? 
+10
+
+2. Which cutoff is most useful for identifying common English phrases? 
+200
+
+3. Which cutoff is least useful for identifying common English phrases or names? 
+1
